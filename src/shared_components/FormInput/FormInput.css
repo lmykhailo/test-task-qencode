@@ -1,0 +1,16 @@
+.form-input {
+  box-sizing: border-box;
+  background-color: white;
+  border: 1.2px solid #d3d8dc;
+  color: black;
+  height: 48px;
+  width: 400px;
+  border-radius: 6px;
+  margin-bottom: 5px;
+  font-size: 15px;
+  padding: 14px 12px;
+}
+
+.form-input::placeholder {
+  color: #a1abb5;
+}

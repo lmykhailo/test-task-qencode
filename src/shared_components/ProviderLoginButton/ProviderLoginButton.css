@@ -1,0 +1,18 @@
+.btn-provider {
+  box-sizing: border-box;
+  width: 192px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  border-radius: 6px;
+  border: 1.2px solid #d3d8dc;
+  cursor: pointer;
+}
+
+.btn-provider span {
+  font-size: 14px;
+  margin-left: 10px;
+  font-weight: 550;
+}
