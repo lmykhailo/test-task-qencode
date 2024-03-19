@@ -3,6 +3,10 @@ import "./FormPasswordInput.css";
 
 // I have decided to split password input from text input in case we would have either 3rd scenario
 // of input or if we would have to add more functionality to password input in future.
+
+//Reusable form password input component that is used in multiple forms for password input
+//Has a show/hide password functionality that is controlled by the parent component
+//Has optional label and placeholder
 const FormPasswordInput = ({
   handleChange,
   label,

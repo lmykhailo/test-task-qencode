@@ -9,8 +9,7 @@
 }
 
 .login-page h1 {
-  margin-top: 80px;
-  margin-bottom: 40px;
+  margin: 80px 0 40px;
   font-size: 30px;
   font-weight: bold;
 }
@@ -22,11 +21,19 @@
   align-items: center;
 }
 
-.error-message {
-  color: red;
+.message {
   margin: 0;
   font-size: 14px;
 }
+
+.message-info {
+  color: black;
+}
+
+.message-error {
+  color: red;
+}
+
 .forgot-password-wrapper {
   display: flex;
   justify-content: flex-end;
@@ -43,9 +50,9 @@
 }
 
 .divider-login-page {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px 0;
 }
+
 .bottom-text-login-page {
   font-size: 14px;
   margin-top: 20px;

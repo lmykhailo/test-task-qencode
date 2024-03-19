@@ -6,8 +6,8 @@
   justify-content: center;
   align-items: center;
   background-color: white;
-  border-radius: 6px;
   border: 1.2px solid #d3d8dc;
+  border-radius: 6px;
   cursor: pointer;
 }
 

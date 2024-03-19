@@ -4,6 +4,7 @@ import { LOGIN_ROUTE } from "./consts";
 
 const AppRouter = () => {
   return (
+    //Mapping through the routes array and rendering the Route component for each route
     <Routes>
       <>
         {routes.map(({ path, Component }) => (

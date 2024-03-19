@@ -3,6 +3,8 @@ import GoogleLogo from "../../assets/GoogleLogo/GoogleLogo";
 import ProviderLoginButton from "../../shared_components/ProviderLoginButton/ProviderLoginButton";
 import "./ProviderButtonsBlock.css";
 
+//Component to display third-party providers login buttons
+
 const ProviderButtonsBlock = () => {
   return (
     <div className="provider-block-container">

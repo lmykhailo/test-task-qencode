@@ -5,10 +5,7 @@
   border-radius: 8px;
   margin-top: 20px;
   font-size: 16px;
-  padding-left: 82px;
-  padding-right: 82px;
-  padding-top: 13px;
-  padding-bottom: 13px;
+  padding: 13px 82px;
   cursor: pointer;
 }
 
@@ -21,5 +18,5 @@
 .btn-submit {
   color: #ffffff;
   background-color: #316fea;
-  border: 0px;
+  border: none;
 }

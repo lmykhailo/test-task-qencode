@@ -8,6 +8,7 @@ import {
   RESET_PASSWORD_ROUTE,
 } from "./consts";
 
+//Array of routes with path and Component
 export const routes = [
   {
     path: LOGIN_ROUTE,
